@@ -1,0 +1,7 @@
+.box{
+    background-color: aquamarine;
+    display: flex;
+     border:2px solid groove;
+     width:300px;
+     height:300px;
+}
